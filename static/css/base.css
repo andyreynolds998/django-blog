@@ -1,5 +1,5 @@
-header h1 a {
-    color: red;
+.nav-left{
+    margin-left: 1rem;
 }
 .postEntry{
     border: 1px solid black;
